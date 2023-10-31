@@ -10,4 +10,4 @@ matplotlib
 joblib==1.2.0
 altair==4.1.0
 streamlit==1.18.0
-pysqlite3
+pysqlite3-binary
