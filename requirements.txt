@@ -1,0 +1,12 @@
+numpy
+Cython==0.29.21
+scikit-learn==1.2.2
+pandas
+plotly
+scipy
+pyDOE
+openpyxl
+matplotlib
+joblib==1.2.0
+altair==4.1.0
+streamlit==1.18.0

@@ -1,0 +1,2 @@
+conda create --name vep38 python=3.8
+conda activate vep38
